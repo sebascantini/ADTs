@@ -1,0 +1,4 @@
+/snap/clion/137/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang++ "-DCMAKE_CXX_FLAGS=-fprofile-instr-generate -fcoverage-mapping" "-DCMAKE_C_FLAGS=-fprofile-instr-generate -fcoverage-mapping" -G "CodeBlocks - Unix Makefiles" "/home/msorondo/Desktop/formateo ubuntu 12-1120/Algo II/algo2-2020c2-grupal/tpg4/esqueleto_tp4"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msorondo/Desktop/formateo ubuntu 12-1120/Algo II/algo2-2020c2-grupal/tpg4/esqueleto_tp4/cmake-build-debug-coverage

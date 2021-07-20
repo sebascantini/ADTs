@@ -1,0 +1,6 @@
+/home/msorondo/Desktop/formateo ubuntu 12-1120/Algo II/algo2-2020c2-grupal/tpg4/esqueleto_tp4/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/home/msorondo/Desktop/formateo ubuntu 12-1120/Algo II/algo2-2020c2-grupal/tpg4/esqueleto_tp4/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
+/home/msorondo/Desktop/formateo ubuntu 12-1120/Algo II/algo2-2020c2-grupal/tpg4/esqueleto_tp4/cmake-build-debug-coverage/CMakeFiles/gtest.dir
+/home/msorondo/Desktop/formateo ubuntu 12-1120/Algo II/algo2-2020c2-grupal/tpg4/esqueleto_tp4/cmake-build-debug-coverage/CMakeFiles/gtest_main.dir
+/home/msorondo/Desktop/formateo ubuntu 12-1120/Algo II/algo2-2020c2-grupal/tpg4/esqueleto_tp4/cmake-build-debug-coverage/CMakeFiles/correrValgrindJuego.dir
+/home/msorondo/Desktop/formateo ubuntu 12-1120/Algo II/algo2-2020c2-grupal/tpg4/esqueleto_tp4/cmake-build-debug-coverage/CMakeFiles/correrTestsJuego.dir
